@@ -1,0 +1,35 @@
+.wrapper {
+    color: #303030;
+    font: 16px sans-serif;
+    font-weight: bold;
+    background: url("../drumkitP1/img/musicconcert.jpg");
+    background-size: cover;
+    height: 100vh;
+    border: 3px lightblue solid;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.keys {
+    color: rgba(183, 249, 18, 0.9);
+    list-style: none;
+    padding: 1em 0 0 0;
+    margin: 0;
+    font-size: 3.5em;
+}
+
+.key {
+    display: inline-block;
+    border: 3px #303030 solid;
+    padding: 4px 12px;
+    margin: 0 7px;
+}
+
+.text-background {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 10%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: -250px;
+}
