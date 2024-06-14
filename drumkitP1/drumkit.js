@@ -68,6 +68,3 @@ document.addEventListener('keyup', (e) => {
     keyElem.style['font-size'] = '1em';
     keyElem.style['background-color'] = 'transparent';
 })
-
-// todo:
-// trigger sound to the corresponding key
